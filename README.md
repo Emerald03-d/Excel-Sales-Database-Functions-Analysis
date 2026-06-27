@@ -21,8 +21,10 @@ SUMIF
 SUMIFS
 AVERAGEIF
 AVERAGEIFS
+COUNTIFS
 DMAX
 DMIN
+DCOUNT
 Data Validation
 Dynamic Reporting
 Multi-Criteria Analysis
