@@ -44,6 +44,6 @@ Calculate Total Sales using Product, Region, and Department as criteria.
 Create interactive drop-down lists using Data Validation.
 Build a dynamic reporting system that updates automatically based on user selections.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06ff407d-6128-45b7-86b4-f161d83ad624" />
+
 
 
