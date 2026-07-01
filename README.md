@@ -15,6 +15,7 @@ Perform sales analysis using multiple criteria (Product, Region, and Department)
 Implement Data Validation to create interactive drop-down lists.
 Build a dynamic worksheet that automatically recalculates results based on user selections.
 
+
 🛠️ Excel Skills Demonstrated
 IF Function
 SUMIF
@@ -43,6 +44,7 @@ Determine Lowest Sales by Product and Region.
 Calculate Total Sales using Product, Region, and Department as criteria.
 Create interactive drop-down lists using Data Validation.
 Build a dynamic reporting system that updates automatically based on user selections.
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/43c4ce9a-fcba-489c-bf89-d4ded0365296" />
 
 
